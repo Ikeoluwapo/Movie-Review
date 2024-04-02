@@ -10,7 +10,7 @@ Aspect of deep learning: Natural Language Processing (NLP)
 Tool: vader_lexicon
 
 ## App Screenshot
-![Device Price](https://github.com/Ikeoluwapo/Device-Price/blob/7e13c6db2748674fb07dc184ee504278cdbb5723/Device%20Price.png?raw=True)
+![Movie Review](https://github.com/Ikeoluwapo/Movie-Review/blob/3567713563e4a539194d95874f9754f450c8b8dd/Sentiment%20Analysis.png?raw=True)
 
 ## Let's Connect
 I'm eager to learn and always open to collaborating on interesting projects or discussing the latest trends in Artificial Intelligence. Feel free to connect with me here on GitHub, or you can reach out to me via www.linkedin.com/in/emmanuella-omolade-23925219a
