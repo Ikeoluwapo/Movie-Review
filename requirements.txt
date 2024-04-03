@@ -8,3 +8,7 @@ plotly
 pymysql
 streamlit-tags
 Pillow
+spacy
+GitPython
+ipython
+nltk
